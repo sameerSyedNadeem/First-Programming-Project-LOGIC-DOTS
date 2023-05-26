@@ -1,0 +1,16 @@
+Pink Yellow LightBlue Green Orange DarkBlue Teal Purple Gold
+
+place Pink top.middle
+towards Green left Yellow
+touch Green Yellow not
+
+towards LightBlue left Gold
+touch LightBlue Gold
+
+towards Orange right Teal
+touch Orange Teal
+
+towards Purple right LightBlue
+touch Purple LightBlue not
+
+touch DarkBlue Orange

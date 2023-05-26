@@ -1,0 +1,8 @@
+Pink Pink Pink Green Green DarkBlue Teal Teal Gold
+
+row Teal 1 top
+between DarkBlue Teal Green
+row Pink 3 bottom
+col Green 2 right
+touch Teal Teal
+touch DarkBlue Pink not

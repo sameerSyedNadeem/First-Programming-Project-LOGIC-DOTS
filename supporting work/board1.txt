@@ -1,0 +1,8 @@
+Colors:
+LightBlue, LightBlue, LightBlue, Green, Green, Orange, Teal, Teal, Gold
+
+Rules:
+1. 2 Green cubes on the left.
+2. 2 Teal cubes at the bottom.
+3. 3 LightBlue cubes are at the top.
+4. Orange cube on the right

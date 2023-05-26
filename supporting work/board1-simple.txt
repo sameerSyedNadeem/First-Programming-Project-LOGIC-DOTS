@@ -1,0 +1,6 @@
+LightBlue LightBlue LightBlue Green Green Orange Teal Teal Gold
+
+col Green 2 left
+row Teal 2 bottom
+row LightBlue 3 top
+col Orange 1 right

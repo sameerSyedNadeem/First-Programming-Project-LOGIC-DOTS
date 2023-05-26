@@ -1,0 +1,9 @@
+Colors:
+Yellow, LightBlue, LightBlue, Orange, Orange, Orange, Purple, Purple, Gold
+
+Rules:
+1. Yellow cube is at the top in the middle.
+2. 3 orange cubes in the same row.
+3. 2 purple cubes touch each other.
+4. 2 LightBlue cubes are on the left.
+5. 2 LightBlue cubes do not touch each other.

@@ -1,0 +1,17 @@
+Pink LightBlue LightBlue Green Orange Orange Teal Grey Gold
+
+between Grey LightBlue LightBlue
+
+towards Orange above Orange
+touch Orange Orange
+
+towards Green left Pink
+touch Green Pink not
+
+towards Teal right Orange
+touch Teal Orange
+
+towards Pink below LightBlue
+touch Pink LightBlue
+
+touch Orange LightBlue not

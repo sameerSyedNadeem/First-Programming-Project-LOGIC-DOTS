@@ -1,0 +1,9 @@
+Colors:
+Pink, Pink, LightBlue, Green, Orange, Orange, Teal, Grey, Gold
+
+Rules:
+1. The Green cube is between two orange cubes.
+2. The Teal cube is on the left.
+3. The LightBlue cube is directly under the Green cube.
+4. The Grey cube is in the same row as the Teal cube.
+5. In the four corners there are only Pink and Orange cubes.

@@ -1,0 +1,11 @@
+Colors:
+Pink, Pink, Pink, Green, Green, DarkBlue, Teal, Teal, Gold
+
+Rules:
+1. 1 Teal cube at the top.
+top Teal 1
+2. DarkBlue cube between Teal and Green cubes.
+3. 3 Pink cubes at the bottom.
+4. 2 Green cubes on the right.
+5. 2 teal cubes touch each other.
+6. DarkBlue cube does not touch the pink cube.

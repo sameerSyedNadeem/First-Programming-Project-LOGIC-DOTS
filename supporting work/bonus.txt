@@ -1,0 +1,9 @@
+Orange Orange Orange Yellow Yellow Yellow Teal Teal Gold
+
+touch Orange Orange not
+touch Yellow Yellow not
+touch Teal Teal not
+touch Teal Orange not
+row Yellow 1 top not
+col Teal 1 left not
+towards Orange below Teal not

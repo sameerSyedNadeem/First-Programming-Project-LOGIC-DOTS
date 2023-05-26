@@ -1,0 +1,21 @@
+Pink Pink Yellow Green Green Orange Teal Purple Gold
+
+towards Green left Orange
+touch Green Orange
+
+towards Pink left Orange
+touch Pink Orange not
+
+towards Green right Yellow
+touch Green Yellow
+
+towards Purple left Green
+touch Purple Green not
+
+towards Orange above Green
+
+place Pink middle
+touch Pink Green
+
+towards Teal below Orange
+touch Teal Orange

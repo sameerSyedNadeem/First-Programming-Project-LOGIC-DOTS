@@ -1,0 +1,10 @@
+Colors:
+Pink, Yellow, Yellow, Orange, DarkBlue, DarkBlue, Grey, Grey, Gold
+
+Rules:
+1. The Orange cube is below the Golden cube and they touch each other.
+2. The Pink cube is above a DarkBlue cube and they touch each other.
+3. The 2 Grey cubes touch each other.
+4. A DarkBlue is above the Pink cube. They touch each other.
+5. The 2 Yellow cubes are in the column to the right. They touch each other.
+6. The Golden cube touches precisely 3 other cubes.

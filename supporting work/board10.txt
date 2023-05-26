@@ -1,0 +1,11 @@
+Colors:
+Pink, Pink, Yellow, Green, Green, Orange, Teal, Purple, Gold
+
+Rules:
+1. A Green cube is directly to the left of the Orange cube.
+2. A Pink cube is to the left of the orange cube. They do not touch each other.
+3. A Green cube is directly to the right of the Yellow cube.
+4. The Purple cube is to the left of a Green cube. They do not touch each other.
+5. The Orange cube is above a green cube. They do not touch each other.
+6. The 2 Pink cubes touch a Green cube.
+7. The Teal cube is directly below the Orange cube.

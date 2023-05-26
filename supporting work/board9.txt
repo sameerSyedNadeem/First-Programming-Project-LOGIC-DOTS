@@ -1,0 +1,9 @@
+Colors:
+Pink, LightBlue, LightBlue, Green, Orange, Orange, Teal, Grey, Gold
+
+1. The Grey cube is between the 2 LightBlue cubes.
+2. The Orange cubes are directly above each other.
+3. The Green cube is to the left of the Pink cube but they don't touch each other.
+4. The Teal cube is directly to the right of an Orange cube.
+5. The Pink cube is directly below the LightBlue cube.
+6. None of the Orange cubes touch a LightBlue cube.

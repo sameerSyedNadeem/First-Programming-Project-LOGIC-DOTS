@@ -1,0 +1,9 @@
+Colors:
+Pink, Pink, LightBlue, Green, DarkBlue, DarkBlue, Teal, Teal, Gold
+
+Rules:
+1. The 2 teal cubes are at the bottom.
+2. Precisely 1 pink cube is at the top.
+3. The LightBlue cube is on the right.
+4. The Green cube is between the two DarkBlue cubes
+5. The Green cube is between the two pink cubes.

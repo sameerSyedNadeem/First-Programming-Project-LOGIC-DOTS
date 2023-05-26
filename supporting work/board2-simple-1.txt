@@ -1,0 +1,7 @@
+Yellow LightBlue LightBlue Orange Orange Orange Purple Purple Gold
+
+place Yellow top.middle
+row Orange 3 middle
+touches Purple Purple
+col LightBlue 2 left
+touches LightBlue LightBlue not

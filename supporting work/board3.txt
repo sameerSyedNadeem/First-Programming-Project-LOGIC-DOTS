@@ -1,0 +1,11 @@
+Colors:
+Yellow, Yellow, LightBlue, Green, Green, Orange, Teal, Teal, Gold
+
+Rules:
+1. 2 Green cubes at the bottom.
+2. 2 Yellow cubes on the right.
+3. Teal cube is precisely in the middle.
+4. Orange cube is in a corner.
+5. LightBlue cube is directly above the 2 Yellow cubes.
+6. Teal cube touches the LightBlue cube.
+
